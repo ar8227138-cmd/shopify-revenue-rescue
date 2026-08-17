@@ -153,16 +153,13 @@ Project: Shopify Revenue Rescue
 Focus: E-commerce Data Analytics & Revenue Leak Detection
 Objective: Turn raw business data into actionable insights that can help businesses identify inefficiencies and improve revenue performance.
 ## 📊 Key Analysis Visualizations
+### Visual Data Insights
 
-### Revenue vs Ad Spend by Category
-![Revenue vs Ad Spend by Category]
-revenue_vs_ad_spend_by_category.png
+#### 1. Revenue vs Ad Spend by Category
+![Revenue vs Ad Spend by Category](revenue_vs_ad_spend_by_category.png)
 
-### Net Profit by Category
-![Net Profit by Category](images/net_profit_by_category.png)
+#### 2. Net Profit by Category
+![Net Profit by Category](net_profit_by_category.png)
 
-### Gross Revenue vs Ad Spend by Category
-![Gross Revenue vs Ad Spend by Category](images/gross_revenue_vs_ad_spend_by_category.png)
-
-### Largest Negative-Profit Orders
-![Largest Negative-Profit Orders](images/largest_negative_profit_orders.png)
+#### 3. Largest Negative-Profit Orders
+![Largest Negative-Profit Orders](largest_negative_profit_orders.png)
