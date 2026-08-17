@@ -155,7 +155,8 @@ Objective: Turn raw business data into actionable insights that can help busines
 ## 📊 Key Analysis Visualizations
 
 ### Revenue vs Ad Spend by Category
-![Revenue vs Ad Spend by Category](images/revenue_vs_ad_spend_by_category.png)
+![Revenue vs Ad Spend by Category]
+revenue_vs_ad_spend_by_category.png
 
 ### Net Profit by Category
 ![Net Profit by Category](images/net_profit_by_category.png)
