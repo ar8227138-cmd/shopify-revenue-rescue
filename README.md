@@ -143,7 +143,7 @@ This is a portfolio analytics project created for demonstration and educational 
 
 The dataset is used for analytical demonstration and does not represent confidential data from a real Shopify merchant.
 
-AI tools were used to assist with parts of the analytical workflow. Analytical results should be reviewed and validated against the underlying dataset before being used for real business decisions.
+AI tools were used to powered with parts of the analytical workflow. Analytical results should be reviewed and validated against the underlying dataset before being used for real business decisions.
 
 ---
 
@@ -152,3 +152,16 @@ AI tools were used to assist with parts of the analytical workflow. Analytical r
 Project: Shopify Revenue Rescue
 Focus: E-commerce Data Analytics & Revenue Leak Detection
 Objective: Turn raw business data into actionable insights that can help businesses identify inefficiencies and improve revenue performance.
+## 📊 Key Analysis Visualizations
+
+### Revenue vs Ad Spend by Category
+![Revenue vs Ad Spend by Category](images/revenue_vs_ad_spend_by_category.png)
+
+### Net Profit by Category
+![Net Profit by Category](images/net_profit_by_category.png)
+
+### Gross Revenue vs Ad Spend by Category
+![Gross Revenue vs Ad Spend by Category](images/gross_revenue_vs_ad_spend_by_category.png)
+
+### Largest Negative-Profit Orders
+![Largest Negative-Profit Orders](images/largest_negative_profit_orders.png)
